@@ -85,4 +85,4 @@ production:
   <<: *default
   database: photog_production
 # username: photog
-# password: <%= ENV['PHOTOG_DATABASE_PASSWORD'] %>
+# rakepassword: <%= ENV['PHOTOG_DATABASE_PASSWORD'] %>
